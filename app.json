@@ -10,7 +10,7 @@
       "SESSION_ID": {
       "description": "Paste here session id that you have scanned",
       "required": false,
-      "value": ""
+      "value": "Bmwmd$aLf5tc6u"
     },
     "MODE": {
       "description": "Enter true for public. false for private",
