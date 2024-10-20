@@ -9,13 +9,13 @@
   "env":{
       "SESSION_ID": {
       "description": "Paste here session id that you have scanned",
-      "required": true,
+      "required": false,
       "value": ""
     },
     "MODE": {
       "description": "Enter true for public. false for private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter true for autoview status. false for no",
@@ -55,7 +55,7 @@
     "PREFIX": {
       "description": "Enter your bot prefix eg .,+@#$¶∆×π",
       "required": false,
-      "value": ""
+      "value": "$"
     }
     },
     "buildpacks": [
